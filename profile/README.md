@@ -15,8 +15,7 @@ CrolangP2P is a simple, robust framework for cross-language peer-to-peer (P2P) c
 - **No packet size limits:** Large data exchange is supported.
 - **Extensible:** The Broker supports modular extensions for authentication, authorization, message handling, and more.
 
-## How it works
-Nodes connect through a [Crolang Broker](https://github.com/crolang-p2p/crolang-p2p-broker), which acts as a rendezvous point: it helps nodes discover each other and establish direct WebRTC connections. If a direct connection is not possible, the Broker transparently relays messages between nodes via WebSocket, so communication always works.
+Nodes connect through the [Crolang Broker](https://github.com/crolang-p2p/crolang-p2p-broker), which acts as a rendezvous point: it helps nodes discover each other and establish direct WebRTC connections.
 
 ## Available CrolangP2P Node implementations
 - [JVM (Kotlin + Java)](https://github.com/crolang-p2p/crolang-p2p-node-jvm)
