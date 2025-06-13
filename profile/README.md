@@ -24,3 +24,4 @@ More implementations will be available in the future.
 
 ## Usage Examples
 - [JVM (Kotlin): examples-kotlin-crolang-p2p-node-jvm](https://github.com/crolang-p2p/examples-kotlin-crolang-p2p-node-jvm)
+- [JVM (Java): examples-java-crolang-p2p-node-jvm](https://github.com/crolang-p2p/examples-java-crolang-p2p-node-jvm)
