@@ -18,7 +18,9 @@ CrolangP2P is a simple, robust framework for cross-language peer-to-peer (P2P) c
 Nodes connect through the [Crolang Broker](https://github.com/crolang-p2p/crolang-p2p-broker), which acts as a rendezvous point: it helps nodes discover each other and establish direct WebRTC connections.
 
 ## Available CrolangP2P Node implementations
-- [JVM (Kotlin + Java)](https://github.com/crolang-p2p/crolang-p2p-node-jvm)
+There is only one multiplatform repository for the CrolangP2P Node: [crolang-p2p-node](https://github.com/crolang-p2p/crolang-p2p-node).  
+Said project has multiple targets, which are the frameworks supported by CrolangP2P:
+- JVM (Kotlin + Java)
 
 More implementations will be available in the future.
 
