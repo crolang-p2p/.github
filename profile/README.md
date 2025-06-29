@@ -25,5 +25,10 @@ Said project has multiple targets, which are the frameworks supported by Crolang
 More implementations will be available in the future.
 
 ## Usage Examples
+### Broker
+Running the Broker without any additional configuration is easy as running a Docker image as described in the [Broker's documentation](https://github.com/crolang-p2p/crolang-p2p-broker?tab=readme-ov-file#run-the-broker).  
+The [examples-crolang-p2p-broker](https://github.com/crolang-p2p/examples-crolang-p2p-broker) contains advanced usage examples, where the Broker's behaviour is customized through the use of webhooks and environment variables.
+
+### CrolangP2P Nodes
 - [JVM (Kotlin): examples-kotlin-crolang-p2p-node-jvm](https://github.com/crolang-p2p/examples-kotlin-crolang-p2p-node-jvm)
 - [JVM (Java): examples-java-crolang-p2p-node-jvm](https://github.com/crolang-p2p/examples-java-crolang-p2p-node-jvm)
