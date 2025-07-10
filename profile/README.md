@@ -21,6 +21,7 @@ Nodes connect through the [Crolang Broker](https://github.com/crolang-p2p/crolan
 There is only one multiplatform repository for the CrolangP2P Node: [crolang-p2p-node](https://github.com/crolang-p2p/crolang-p2p-node).  
 Said project has multiple targets, which are the frameworks supported by CrolangP2P:
 - [JVM (Kotlin + Java)](https://central.sonatype.com/artifact/io.github.crolang-p2p/crolang-p2p-node-jvm/overview)
+- [JavaScript/Typescript](https://www.npmjs.com/package/crolang-p2p-node)
 
 More implementations will be available in the future.
 
@@ -31,3 +32,4 @@ Running the Broker without any additional configuration is easy as running a Doc
 ### CrolangP2P Nodes
 - [JVM (Kotlin): examples-kotlin-crolang-p2p-node-jvm](https://github.com/crolang-p2p/examples-kotlin-crolang-p2p-node-jvm)
 - [JVM (Java): examples-java-crolang-p2p-node-jvm](https://github.com/crolang-p2p/examples-java-crolang-p2p-node-jvm)
+- [Node.js (typescript): examples-nodejs-crolang-p2p-node-js](https://github.com/crolang-p2p/examples-nodejs-crolang-p2p-node-js)
